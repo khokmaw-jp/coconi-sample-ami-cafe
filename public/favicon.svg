@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Ami Cafe</title>
+  <rect width="64" height="64" rx="16" fill="#fffaf3"/>
+  <circle cx="32" cy="32" r="25" fill="#e8f0df"/>
+  <path d="M16 41c6.2-3.3 11.5-3 16 1 4.5-4 9.8-4.3 16-1" fill="none" stroke="#8b6f4e" stroke-width="3.4" stroke-linecap="round"/>
+  <path d="M18 24c5.7-2.4 10.3-1.6 14 2.5 3.7-4.1 8.3-4.9 14-2.5v17c-5.7-2.4-10.3-1.6-14 2.5-3.7-4.1-8.3-4.9-14-2.5V24Z" fill="#fffaf3" stroke="#8b6f4e" stroke-width="3.4" stroke-linejoin="round"/>
+  <path d="M32 27v16" stroke="#8b6f4e" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M25 20c-1.5-2.5 1.4-4.1.2-6.5M32 20c-1.5-2.5 1.4-4.1.2-6.5M39 20c-1.5-2.5 1.4-4.1.2-6.5" fill="none" stroke="#6f8c63" stroke-width="2.8" stroke-linecap="round"/>
+  <path d="M47 16c-3.9.1-6.8 1.85-8.8 5.25 4.05.38 6.98-1.37 8.8-5.25Z" fill="#9db98d"/>
+</svg>
